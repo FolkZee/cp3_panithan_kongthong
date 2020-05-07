@@ -2,6 +2,7 @@ A = 100
 B = 100
 C = 100
 D = 100
+print("--- Your Score ---")
 print("Foundation English:",A)
 print("General Business:",B)
 print("Introduction to Computer Systems:",C)
